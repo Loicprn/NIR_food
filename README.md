@@ -1,10 +1,11 @@
 # NIR spetra analysis
 
-Research project from the conference article ""
+Research project from the conference article "A Decision support tool to analyze food properties from near infrared spectroscopy"
+This GitHub repository is an explanatory guide to the code used to produce the results obtained on the conference article and will provide a basis for reflection or development of new solutions adapted to specific problems. 
 
 ## Set-up & Installation
 
-### Create new environment in Anaconda
+### Create new environment in Anaconda & Setup 
 ```bash
 
 #Create new envrionment
@@ -32,3 +33,8 @@ pip install -r requirements.txt
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Cite us
+Do you use or draw inspiration from this code in your project or research? Please cite us!
+
+ref: https://pypi.org/project/pyswarms/
