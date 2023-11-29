@@ -36,5 +36,3 @@ pip install -r requirements.txt
 
 ## Cite us
 Do you use or draw inspiration from this code in your project or research? Please cite us!
-
-ref: https://pypi.org/project/pyswarms/
